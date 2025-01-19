@@ -22,8 +22,7 @@ You can clone the code and try exploring the app yourself!
 
 ```bash  
 # Clone the repository  
-git clone https://github.com/your-username/weather-app  
-
+git clone 
 # Navigate to the project directory  
 cd weather-app  
 
