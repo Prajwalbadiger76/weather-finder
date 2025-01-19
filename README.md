@@ -22,7 +22,8 @@ You can clone the code and try exploring the app yourself!
 
 ```bash  
 # Clone the repository  
-git clone 
+git clone https://github.com/Prajwalbadiger76/weather-finder.git
+
 # Navigate to the project directory  
 cd weather-app  
 
